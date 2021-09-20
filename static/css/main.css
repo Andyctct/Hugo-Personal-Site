@@ -217,8 +217,9 @@ h6.meta
     color: #8b8b8b;
 }
 section.meta {
-    margin-top:
+    margin-top: 10
 }
+/* changed margin top to 10 because it was giving an error and messing up all my css I believe (hopefully) */
 .powered
 {
     font-family: 'Roboto', sans-serif;
