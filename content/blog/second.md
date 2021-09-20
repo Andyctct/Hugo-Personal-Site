@@ -32,5 +32,13 @@ Disclaimer: As per the description, this is going to be an extremely short and b
     - [Understanding the dot a little better](https://www.smashingmagazine.com/2021/02/context-variables-hugo-static-site-generator/)
     - [Hugo Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/hugo/)
 
--Step 4: Deploying the website, an unexpectedly hard step probably because I am rusty working with git. 
+- Step 4: Time to deploy / host the website, this was an unexpectedly hard step for me probably because I was rusty working with git. First, it's probably a good idea to decide what you want to use to host your website because what steps you will need to take will depend on which hosting service you decide on. Popular options include netlify, github pages, heroku, firebase, and AWS. This site is hosted on netlify which I chose because of recommendations from friends as well as online resources, but I also thought strongly about github pages. After you choose a hosting service, you'll want to make sure that you have a remote github repository for the site if you aren't already using one for this project. For people who are completely new to this, there's a lot of documentation online about creating a github repository and the basics of working with git, I promise you it's not that bad. Once you create this repository and push your files to it (I don't believe you have to push ALL your files in order to host the website, but it's probably a good idea anyways), you can follow the steps to deploying on netlify as written in the official Hugo documentation [here](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/). And voila, hopefully everything works out as simple as that, but as you probably know by now, that's rarely the case sadly. So here are some resources relating to problems that I ran into at this stage.
+    - [Again, Hugo documentation for hosting on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
+    - [Deployment failing due to host key verification](https://answers.netlify.com/t/hugo-site-deployment-failed-due-to-host-key-verification/783/4)
+    - [Rules for good git commit messages](https://chris.beams.io/posts/git-commit/)
+    - [CSS not loading in site](https://answers.netlify.com/t/css-not-loading/17773/4)
+    - [What the public folder is for](https://discourse.gohugo.io/t/why-is-there-a-public-folder/27979/5)
+    - [How to stop hosting on netlify](https://docs.netlify.com/configure-builds/stop-or-activate-builds/)
+    - [How to deploy using github pages](https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7)     
 
+-Step 4.5: Now that we have deployed, it's time to use a custom domain name which will enable us to do other things on netlify. To be continued.
