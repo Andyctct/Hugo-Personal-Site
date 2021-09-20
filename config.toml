@@ -1,0 +1,73 @@
+## Basic Configuration
+
+baseurl = "andyctct.me"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Andy Wu"
+title = "Andy Wu"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Andy Wu"
+intro = "Aspiring Programmer"
+description = "Third year computer science student from the University of Toronto"
+authorimage = "headshot.jpg"
+dateformat = "Jan 3, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Beginner Personal Blog"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "andyctct"
+instagram = "andyctct"
+linkedin = "andy-wu-035561199"
+twitter = "yaboyandyctct"
+facebook = "andyctct"
+lastfm = "andyctct"
+steam = "andyctct"
+reddit = "andyctct"
+youtube = "UCaSR1lDv5RKUnOp4hlshjQw"
+email = ""
+#use formspree for contacting?
+
+## Extras
+[params.extra]
+copyright = "© 2021. Andy Wu. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "music"
+    identifier = "music"
+    weight = 200
+    url = "music"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
