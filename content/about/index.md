@@ -10,16 +10,16 @@ title = "About"
 showpagemeta = true
 +++
 
-Hi, I'm Andy Wu and this is my first ever website. I am a third year computer science student who is also minoring in philosophy currently at the University of Toronto! I am looking for cs related work opportunities for this coming year, but open to other opportunities as well. In my free time, I like to exercise (mainly working out and basketball), play games, eat good food, go down rabbit holes for whatever interests me at the moment, and hang out and have great conversations with great people! I'm also going to try getting into a little bit of this blogging thing just so I can put some of my thoughts somewhere and hopefully it leads to some really interesting events in the future. I'm also planning to make this website better and / or make other websites in the future.
+Hi, I'm Andy Wu and this is my first ever website. I am a third year student specializing in computer science currently at the University of Toronto! Asides from computer science, I am also fond of taking a variety of philosophy courses. I am looking for cs related work opportunities for this coming year, but open to other opportunities as well. In my free time, I like to exercise (mainly working out and basketball), play games, eat good food, go down rabbit holes for whatever interests me at the moment, and hang out and have great conversations with great people! I'm also going to try getting into a little bit of this blogging thing just so I can put some of my thoughts somewhere and hopefully it leads to some really interesting events in the future. I am also planning to make this website better and / or make other websites in the future.
 
 Here are some of the people online that really inspire me (in no particular order): 
 
-- [RDCWorld](https://www.youtube.com/user/rdcworld1)
-- [CalebCity](https://www.youtube.com/c/CalebCity)
-- [Faith Bian](https://liquipedia.net/dota2/Faith_bian)
-- [Lebron James](https://www.instagram.com/kingjames/?hl=en)
 - [Kanye West](https://twitter.com/kanyewest)
 - [Brandon Stanton](https://www.humansofnewyork.com/)
+- [RDCWorld](https://www.youtube.com/user/rdcworld1)
+- [Lebron James](https://www.instagram.com/kingjames/?hl=en)
+- [Faith Bian](https://liquipedia.net/dota2/Faith_bian)
+- [CalebCity](https://www.youtube.com/c/CalebCity)
 
 Here are some of the quotes that I currently like (in no particular order):
 

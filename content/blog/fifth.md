@@ -14,3 +14,8 @@ description = "Exploring how two different ends of the spectrum of our upbringin
 INCOMPLETE
 
 Factoring in the global perspective where hunger really means hunger
+
+life is a treadmill
+fear of stagnation
+other people dont understand me, you dont understand the vision
+i need to make it out, just keep going up
