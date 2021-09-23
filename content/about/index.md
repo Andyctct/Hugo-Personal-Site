@@ -10,7 +10,7 @@ title = "About"
 showpagemeta = true
 +++
 
-Hi, I'm Andy Wu and this is my first ever website. I am a third year student specializing in computer science currently at the University of Toronto! Asides from computer science, I am also fond of taking a variety of philosophy courses. I am looking for cs related work opportunities for this coming year, but open to other opportunities as well. In my free time, I like to exercise (mainly working out and basketball), play games, eat good food, go down rabbit holes for whatever interests me at the moment, and hang out and have great conversations with great people! I'm also going to try getting into a little bit of this blogging thing just so I can put some of my thoughts somewhere and hopefully it leads to some really interesting events in the future. I am also planning to make this website better and / or make other websites in the future.
+Hi, I'm Andy Wu and this is my first ever website. I am a third year student specializing in computer science currently at the University of Toronto! Asides from computer science, I am also fond of taking a variety of philosophy courses. I am looking for cs related work opportunities for this coming year, but open to other opportunities as well. In my free time, I like to exercise (mainly working out and basketball), play games, eat good food, go down rabbit holes, and hang out and have great conversations with great people! I'm also going to try getting into a little bit of this blogging thing just so I can put some of my thoughts somewhere and hopefully it leads to some really interesting events in the future. I am also planning to make this website better and / or make other websites in the future.
 
 Here are some of the people online that really inspire me (in no particular order): 
 
@@ -27,5 +27,5 @@ Here are some of the quotes that I currently like (in no particular order):
 - [Happiness is not a goal... it's a by-product of a life well lived](https://www.goodreads.com/quotes/215395-happiness-is-not-a-goal-it-s-a-by-product-of-a-life)
 - [What is honor compared to a woman's love?...](https://www.goodreads.com/quotes/175402-what-is-honor-compared-to-a-woman-s-love-what-is)
 - [The master said, “Do not be concerned about lacking an official position...](https://www.goodreads.com/book/show/27297.The_Analects)  
-  
+
 Finally, don't be afraid to reach out if you come across this site for whatever reason, I always enjoy recieving new messages! 
