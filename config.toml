@@ -23,7 +23,7 @@ theme = "hugo-goa"
 [params]
 author = "Andy Wu"
 intro = "Aspiring Programmer"
-description = "Third year computer science student from the University of Toronto"
+description = "Third Year Computer Science Student from the University of Toronto"
 authorimage = "headshot.jpg"
 dateformat = "Jan 3, 2006"
 

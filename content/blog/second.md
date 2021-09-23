@@ -11,7 +11,7 @@ description = "My very brief journey of creating a static site with Hugo"
 
 +++
 
-Actual Published Date: TBD 
+Actual Published Date: September 21, 2021
 
 Disclaimer: As per the description, this is going to be an extremely short and barebones guide towards setting up a site of this (low) caliber. I'm essentially just going to document the steps I took to put this website out. The guide will primarily be written with the  beginner - intermediate developer in mind.
 
@@ -45,3 +45,5 @@ Disclaimer: As per the description, this is going to be an extremely short and b
     - One common way forward is setting up a custom domain name which will allow us to remove the netlify.app extension of our website as well as enable us to do other things on Netlify such as enable TLS certificates (a layer of security for your website). Most likely, you will have to purchase a custom domain, but there are free options out there such as the netlify student pack (which only works with Github Pages I believe). Common places to purchase a domain include Google Domains, Namecheap, GoDaddy, Bluehost, etc. Then, the "Getting started" section of your site overview page on netlify will take you through the process of setting up the domain which should be painless. 
 
     - Another thing we can do is integrate Netlify CMS with our existing Hugo site. For those who don't know, a CMS is a content management system and integrating it with our static site will allow us to organize and publish our content easier. I am choosing not to take this step at the moment because I want to work a little bit more with the fundamentals of Hugo for now, and I will move on to make a nicer site as my next project soon. For those who want to take this leap, it doesn't seem to me like this improvement will require vast amounts of additional learning, I believe [this](https://dev.to/howtocode_io/how-to-build-a-jamstack-blog-with-hugo-netlify-cms-and-zapier-14dc) is a good article detailing the process. It even goes a little bit further than I mentioned, feel free to take a look if you really want to take things to the next level. 
+
+All in all, I hope this guide was useful just to show a brief overview of the process of creating a site like this, and hopefully help get people started on their journey of web development alongside mine.

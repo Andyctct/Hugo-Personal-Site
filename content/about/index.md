@@ -26,5 +26,6 @@ Here are some of the quotes that I currently like (in no particular order):
 - [Document, don't create (The motto for this blog)](https://www.youtube.com/watch?v=RVKofRN1dyI)
 - [Happiness is not a goal... it's a by-product of a life well lived](https://www.goodreads.com/quotes/215395-happiness-is-not-a-goal-it-s-a-by-product-of-a-life)
 - [What is honor compared to a woman's love?...](https://www.goodreads.com/quotes/175402-what-is-honor-compared-to-a-woman-s-love-what-is)
-- [The master said, “Do not be concerned about lacking an official position...](https://www.goodreads.com/book/show/27297.The_Analects)    
+- [The master said, “Do not be concerned about lacking an official position...](https://www.goodreads.com/book/show/27297.The_Analects)  
+  
 Finally, don't be afraid to reach out if you come across this site for whatever reason, I always enjoy recieving new messages! 
