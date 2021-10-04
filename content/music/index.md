@@ -148,8 +148,8 @@ Misc:
 
 All lists are unordered, bound to change, and obviously personal lists.
 
-Song of the week:
+Song of the day:
 
-*   [Everybody Talks - Neon Trees](https://www.youtube.com/watch?v=X5G9tIe84lE)
+*   [SIERRA NIGHTS - KEVIN ABSTRACT](https://www.youtube.com/watch?v=fOXHhLmx9p0)
 
 This page is under extreme construction and may not be completed / made to look nice until my future website. 
