@@ -28,6 +28,6 @@ Here are some of the quotes that I currently like (in no particular order):
 - [What is honor compared to a woman's love?...](https://www.goodreads.com/quotes/175402-what-is-honor-compared-to-a-woman-s-love-what-is)
 - [The master said, “Do not be concerned about lacking an official position...](https://www.goodreads.com/book/show/27297.The_Analects)  
 
-Here is my anime list (don't flame my rating system): - [My Anime List](https://myanimelist.net/profile/Andyctct)
+Here is my anime list (don't flame my rating system): - [MAL](https://myanimelist.net/profile/Andyctct)
 
 Finally, don't be afraid to reach out if you come across this site for whatever reason, I always enjoy recieving new messages! 
