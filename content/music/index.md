@@ -150,6 +150,6 @@ All lists are unordered, bound to change, and obviously personal lists.
 
 Song of the week:
 
-*   [Everybody Talks - Neon Trees](https://www.youtube.com/watch?v=X5G9tIe84lE)
+*   [Love You More - Young Thug](https://www.youtube.com/watch?v=kqBXJXb3krU)
 
 This page is under extreme construction and may not be completed / made to look nice until my future website. 
