@@ -9,9 +9,9 @@ showpagemeta = true
 showcomments = true
 +++
 
-This is a page for me to showcase some of the music that I like. I am an avid music listener who loves listening to music, sharing new music (hit me with some music suggestions!!), and sharing the music that I love. The genres I mainly listen to are hip hop, pop, RnB, rap, trap, edm, and japanese music.
+This is a page for me to showcase some of the music that I like. I am an avid music fan who loves listening to music, discovering new music (hit me with some music suggestions!!), and sharing the music that I love. The genres I mainly listen to are hip hop, pop, RnB, rap, trap, edm, and japanese music.
 
-My favourite artist is Kanye West, I believe he is the greatest artist of our generation and a musical genius / luminary. Here are my top 10 favourite Kanye songs.
+My favourite artist is Kanye West, I believe he is a musical genius / luminary and the greatest artist of our generatoin. Here are my top 10 favourite Kanye songs.
 
 *   [Devil in a New Dress](https://www.youtube.com/watch?v=sk3rpYkiHe8)
 *   [Family Business](https://www.youtube.com/watch?v=JwAjANmjajc)
