@@ -20,6 +20,7 @@ Here are some of the people online that really inspire me (in no particular orde
 - [Lebron James](https://www.instagram.com/kingjames/?hl=en)
 - [Faith Bian](https://liquipedia.net/dota2/Faith_bian)
 - [CalebCity](https://www.youtube.com/c/CalebCity)
+- [Ding Liren](https://en.chessbase.com/post/who-is-ding-liren)
 
 Here are some of the quotes that I currently like (in no particular order):
 
