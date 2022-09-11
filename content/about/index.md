@@ -20,7 +20,9 @@ Here are some of the people online that really inspire me (in no particular orde
 - [Lebron James](https://www.instagram.com/kingjames/?hl=en)
 - [Faith Bian](https://liquipedia.net/dota2/Faith_bian)
 - [CalebCity](https://www.youtube.com/c/CalebCity)
-- [Ding Liren](https://en.chessbase.com/post/who-is-ding-liren)
+- [Ding Liren](https://en.chessbase.com/post/who-is-ding-liren
+- [Magnus Carlsen](https://www.youtube.com/watch?v=0ZO28NtkwwQ)
+- [Shohei Ohtani](https://www.youtube.com/watch?v=RCtvOL9xJg4)
 
 Here are some of the quotes that I currently like (in no particular order):
 
@@ -28,6 +30,7 @@ Here are some of the quotes that I currently like (in no particular order):
 - [Happiness is not a goal... it's a by-product of a life well lived](https://www.goodreads.com/quotes/215395-happiness-is-not-a-goal-it-s-a-by-product-of-a-life)
 - [What is honor compared to a woman's love?...](https://www.goodreads.com/quotes/175402-what-is-honor-compared-to-a-woman-s-love-what-is)
 - [The master said, “Do not be concerned about lacking an official position...](https://www.goodreads.com/book/show/27297.The_Analects)  
+- [Love means that [they] want to help you become the best version of yourself](https://www.youtube.com/watch?v=X0-SXS6zdEQ&feature=share&utm_source=EJGixIgBCJiu2KjB4oSJEQ&t=3500)
 
 Here is my anime list (don't flame my rating system): - [MAL](https://myanimelist.net/profile/Andyctct)
 
