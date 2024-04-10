@@ -15,21 +15,21 @@ title = "Andy Wu"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-# googleAnalytics = "XYZ"
-# enableRobotsTXT = true
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
 
 ## Site Settings
 [params]
 author = "Andy Wu"
 intro = "Software Engineer and Life Enthusiast"
 description = "The ramblings of a thinking weed, sometimes coherent"
-authorimage = "headshot.jpg"
-dateformat = "Jan 3, 2006"
+authorimage = "headshot.png"
+dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Beginner Personal Blog"
+description = "Personal Blog"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
@@ -71,3 +71,4 @@ displayrssicon = true
     identifier = "about"
     weight = 300
     url = "/about/"
+    
