@@ -1,0 +1,74 @@
+## Basic Configuration
+
+baseurl = "/"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Andy Wu"
+title = "Andy Wu"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+# disqusShortname = "discusShortname" # Enable if you want to use Disqus
+# googleAnalytics = "UA-XXXXXXXX-X" # Enable if you want to use Google Analytics
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Andy Wu"
+intro = "Software Engineer and Life Enthusiast"
+description = "The ramblings of a thinking weed, sometimes coherent"
+authorimage = "headshot.png"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal Blog"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "andyctct"
+instagram = "andyctct"
+linkedin = "andyctct"
+twitter = "yaboyandyctct"
+facebook = "andyctct"
+lastfm = "andyctct"
+steam = "76561198111404824"
+reddit = "nba"
+youtube = "UCaSR1lDv5RKUnOp4hlshjQw"
+email = ""
+#use formspree for contacting?
+
+## Extras
+[params.extra]
+copyright = "© 2024. Andy Wu. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "music"
+    identifier = "music"
+    weight = 200
+    url = "music"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
+    
