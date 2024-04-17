@@ -1,4 +1,6 @@
-# Goa
+# Hugo-Personal-Site
+
+## Below is the README from Hugo-Goa
 
 Goa is a clean, simple and minimalist theme for blogs and personal websites.
 
@@ -129,7 +131,7 @@ These settings are at the page level.
 
 ## Configuration
 
-The provided [config.toml](https://github.com/kaapiandcode/hugo-goa/blob/master/exampleSite/config.toml) describes all options and features that are supported. Configure it your way!
+The provided [hugo.toml](https://github.com/kaapiandcode/hugo-goa/blob/master/exampleSite/hugo.toml) describes all options and features that are supported. Configure it your way!
 
 ### Basic Configuration
 
