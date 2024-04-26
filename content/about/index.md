@@ -12,9 +12,9 @@ showpagemeta = true
 
 Last Updated: April 10, 2024
 
-Hi, I'm Andy and this is my blog. I am a newly graduated software engineer that specialized in computer science at the University of Toronto, although I am originally from Vancouver, British Columbia. In my free time, I like to exercise (mainly working out, running, and basketball), spend time with my friends, play games, watch anime, eat good food, and go down rabbit holes. I am currently trying to blog more so that I can force myself to think, and hopefully something cool will happen. I am also planning to make this website better and / or make other websites in the future.
+Hi, I'm Andy and this is my blog. I am a newly graduated software engineer that specialized in computer science at the University of Toronto, although I am originally from Vancouver, British Columbia. In my free time, I like to exercise (mainly working out, running, and basketball), spend time with my friends, play games, watch anime, travel, eat good food, and go down rabbit holes. I am currently trying to blog more so that I can force myself to think, and hopefully something cool will happen. I am also planning to make this website better and / or make other websites in the future.
 
-Here are some people I find cool (in no particular order):
+Here are some people I find cool:
 
 - [Kanye West](https://twitter.com/kanyewest)
 - [Brandon Stanton](https://www.humansofnewyork.com/)
@@ -25,8 +25,10 @@ Here are some people I find cool (in no particular order):
 - [Ding Liren](https://en.chessbase.com/post/who-is-ding-liren)
 - [Magnus Carlsen](https://www.youtube.com/watch?v=0ZO28NtkwwQ)
 - [Shohei Ohtani](https://www.youtube.com/watch?v=RCtvOL9xJg4)
+- [Dr. K](https://www.healthygamer.gg/)
+- [Bryan Johnson](https://www.youtube.com/watch?v=OqlPU1CKEpI)
 
-Here are some of the quotes that I currently like (in no particular order):
+Here are some quotes that I currently like:
 
 - [Happiness is not a goal... it's a by-product of a life well lived](https://www.goodreads.com/quotes/215395-happiness-is-not-a-goal-it-s-a-by-product-of-a-life)
 - [What is honor compared to a woman's love?...](https://www.goodreads.com/quotes/175402-what-is-honor-compared-to-a-woman-s-love-what-is)
