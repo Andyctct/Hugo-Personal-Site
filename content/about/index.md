@@ -10,7 +10,7 @@ title = "About Me"
 showpagemeta = true
 +++
 
-Last Updated: April 10, 2024
+Last Updated: April 26, 2024
 
 Hi, I'm Andy and this is my blog. I am a newly graduated software engineer that specialized in computer science at the University of Toronto, although I am originally from Vancouver, British Columbia. In my free time, I like to exercise (mainly working out, running, and basketball), spend time with my friends, play games, watch anime, travel, eat good food, and go down rabbit holes. I am currently trying to blog more so that I can force myself to think, and hopefully something cool will happen. I am also planning to make this website better and / or make other websites in the future.
 
