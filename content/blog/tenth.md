@@ -5,7 +5,7 @@ date = 2024-04-23T15:47:16+07:00
 draft = false
 showpagemeta = true
 slug = "do-birds-ever-sing-the-same-song-twice"
-tags = ["poem", "love"]
+tags = ["poem"]
 title = "Do birds ever sing the same song twice?"
 description = ""
 
